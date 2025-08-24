@@ -7,7 +7,7 @@
     - อ่านหนังสือ 
     - ทำอาหาร
 ### 💬 My contact
-    - 📸 [Instagram](https://www.instagram.com/sethapy_/)
+- 📸 [Instagram](https://www.instagram.com/sethapy_/)
 ### 🧑 My picture
 ![รูปภาพฉัน](Picture/MyPic.jpeg)
 

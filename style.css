@@ -129,9 +129,6 @@ ul {
 }
 
 
-
-/* ----------------------*/
-
 *,
 *::before,
 *::after {
@@ -224,23 +221,3 @@ ul {
         text-shadow: none;
     }
 }
-
-/* --color-primary: #5192ED;
- --color-secondary: #69A1F0;
- --color-tertiary: #7EAEF2;
- --color-quaternary: #90BAF5;
- --color-quinary: #A2C4F5;
- */
-
-
-
-
-
-
-
-
-
-
-
-
-/* Global */
